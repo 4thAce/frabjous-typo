@@ -1,0 +1,12 @@
+config/*.yml
+*.log
+*~
+db/schema.rb
+installer/*.yml
+public/stylesheets/theme/
+public/javascripts/all.js
+tmp/cache/
+tmp/sessions/
+tmp/sockets/
+cache/
+

@@ -1,0 +1,84 @@
+div.kufirst {color: #000; text-align: center; font-size: 128%; background-image: url("http://frabjoustimes.magahiz.com/images/kf.png");
+  background-attachment: fixed;
+  background-position: top left;
+  background-repeat: no-repeat;}
+div.kumid {color: #000; text-align: center; font-size: 128%; background-image: url("images/km.png");
+  background-attachment: fixed;
+  background-position: top left;
+  background-repeat: no-repeat;}
+div.kulast {
+    color: #000; 
+    text-align: center; 
+    font-size: 128%;
+    margin: 0 0 1em 0; background-image: url("images/kl.png");
+  background-attachment: fixed;
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+div.note {
+    color: #EDF088;
+    border: none;
+    font-size: 88%;
+    margin: 2em 0 0 0;
+}
+.cinqfirst {
+  color: #121212;
+  text-align: center;
+  font-size: 128%;
+}
+.cinqmid {
+  color: #121212;
+  text-align: center;
+  font-size: 128%;
+}
+.cinqlast {
+  color: #121212;
+  text-align: center;
+  font-size: 128%;
+}
+div.split {
+  position: relative;
+  width: 85%;
+  left: 10%;
+  margin: 0 0 3em 0 
+}
+span.lefthalf {
+   position: relative;
+   color: #000; float: left;
+   left: 5%;
+   font-size: 128%; background-image: url("images/lh.png");
+  background-attachment: fixed;
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+span.righthalf {
+   position: relative;
+   color: #000;
+   float: right;
+   font-size: 128%; background-image: url("images/rh.png");
+  background-attachment: fixed;
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+.cinqfirst {
+  color: #000; 
+  text-align: center; 
+  font-size: 128%;
+}
+.cinqmid {
+  color: #000; 
+  text-align: center; 
+  font-size: 128%;
+}
+.cinqlast {
+  color: #000;
+  text-align: center;
+  font-size: 128%;
+}
+
+div.brickfirst {color: #000; text-align: center; font-size: 128%;}
+div.brickmid {color: #000; text-align: center; font-size: 128%;}
+div.bricklast {color: #000; text-align: center; font-size: 128%;}
+div.limtop {color: #000; text-indent: 3em; font-size: 128%;}
+div.lim34 {color: #000; text-indent: 6em; font-size: 128%;}
+div.limbot {color: #000; text-indent: 3em; margin: 0 0 1em 0; font-size: 128%;}
