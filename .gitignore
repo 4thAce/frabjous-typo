@@ -9,4 +9,4 @@ tmp/cache/
 tmp/sessions/
 tmp/sockets/
 cache/
-
+.DS_Store
